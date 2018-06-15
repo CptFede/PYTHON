@@ -6,6 +6,7 @@
       <mapping pattern="CDS_list" type="PLAIN_TEXT" />
       <mapping pattern="CDS_list_tmp" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
